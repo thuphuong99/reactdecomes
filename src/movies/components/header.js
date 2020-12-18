@@ -19,12 +19,12 @@ const HeaderComponent = () => {
 
             <Menu theme="dark" mode="horizontal" defaultSelectedKeys={pathname}>
                 <Menu.Item key="/home">
-                    <NavLink to="/home">trang chu
+                    <NavLink to="/home">trang chu 
                      </NavLink>
                 </Menu.Item>
                 <Menu.Item key="/up-coming">
                     <NavLink to="/up-coming">
-                        phim sap cong chieu
+                        phim da cong chieu
                     </NavLink>
                 </Menu.Item>
                 <Menu.Item key="/searchs">
